@@ -57,4 +57,4 @@
 
 |                                            | Link |
 | :---------------------------------------   | :------: |
-| Item List Manager                          | [View](https://github.com/kharizzakaye/HackerRank-Challenges/tree/main/React/Solutions) |
+| Item List Manager                          | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/React/Solutions/01-Item-List-Manager.js) |
