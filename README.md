@@ -9,9 +9,9 @@
 | Day 02 - Operators                         |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2002.js) |  |  |
 | Day 03 - Intro to Conditional Statements   |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2003.js) |  |  |
 | Day 04 - Class vs. Instance                |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2004.js) |  |  |
-| Day 05 - Loops                             |  |  |  |  |  |
-| Day 06 - Let's Review                      |  |  |  |  |  |
-| Day 07 - Arrays                            |  |  |  |  |  |
+| Day 05 - Loops                             |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2005.js) |  |  |
+| Day 06 - Let's Review                      |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2006.js) |  |  |
+| Day 07 - Arrays                            |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2007.js) |  |  |
 | Day 08 - Dictionaries and Maps             |  |  |  |  |  |
 | Day 09 - Recursion 3                       |  |  |  |  |  |
 | Day 10 - Binary Numbers                    |  |  |  |  |  |
