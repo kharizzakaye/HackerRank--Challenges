@@ -5,7 +5,7 @@
 |                                            | C#       | Java | JavaScript (Node.js) | PHP | Python 3 |
 | :---------------------------------------   | :------: | :------: | :------: | :------: | :------: |
 | Day 00 - Hello, World!                     |  |  |  |  |  |
-| Day 01 - Data Types                        |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2001.js) |  |  |
+| Day 01 - Data Types                        |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2001.js) | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/PHP/Day%2001.php) |  |
 | Day 02 - Operators                         |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2002.js) |  |  |
 | Day 03 - Intro to Conditional Statements   |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2003.js) |  |  |
 | Day 04 - Class vs. Instance                |  |  | [View](https://github.com/kharizzakaye/HackerRank-Challenges/blob/main/30%20days%20of%20Code/Solutions/JavaScript%20(Node.js)/Day%2004.js) |  |  |
